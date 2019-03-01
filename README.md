@@ -19,3 +19,4 @@ place other .sh files in /var/www/
 #chkconfig httpd on
 
 make sure to disable the firewall or allow the port
+and also check the crontab
